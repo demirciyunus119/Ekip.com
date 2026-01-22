@@ -1,0 +1,5 @@
+{
+  "name": "Üyelik ve Yönetim Sistemi",
+  "description": "Kullanıcı kayıtları, yönetici paneli ile üye yönetimi ve üye için kişisel hesap silme işlevselliği sunan bir web uygulaması.",
+  "requestFramePermissions": []
+}
